@@ -2,7 +2,7 @@
 
 - [Introducción](/desing-patterns/introduccion/README.md)
 - Patrones Creacionales
-    - Singleton 
+    - [Singleton](/desing-patterns/patrones-creacionales/singleton/README.md) 
     - Builder
     - Prototype
     - Abstract Factory
