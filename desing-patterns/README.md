@@ -17,7 +17,7 @@
     - Wrapper
     - Proxy
 - Patrones de Comportamiento
-    - Chain of Responsability
+    - [Chain of Responsability](/desing-patterns/patrones-de-comportamiento/chain-of-responsibility/README.md)
     - Command
     - Interpreter
     - Iterator
