@@ -23,7 +23,7 @@
     - Iterator
     - Mediator
     - Memento
-    - Observer
+    - [Observer](/desing-patterns/patrones-de-comportamiento/observer/README.md)
     - State
     - Stategy
     - Template Method
