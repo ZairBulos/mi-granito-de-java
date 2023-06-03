@@ -1,0 +1,30 @@
+# Desing Patterns
+
+- [Introducción](/desing-patterns/introduccion/README.md)
+- Patrones Creacionales
+    - Singleton 
+    - Builder
+    - Prototype
+    - Abstract Factory
+    - Factory Method
+- Patrones Estructurales
+    - Adapter
+    - Decorator
+    - Bridge
+    - Composite
+    - Flyweight
+    - Facade
+    - Wrapper
+    - Proxy
+- Patrones de Comportamiento
+    - Chain of Responsability
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Memento
+    - Observer
+    - State
+    - Stategy
+    - Template Method
+    - Visitor
