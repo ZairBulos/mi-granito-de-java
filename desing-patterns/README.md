@@ -6,7 +6,7 @@
     - [Builder](/desing-patterns/patrones-creacionales/builder/README.md)
     - [Prototype](/desing-patterns/patrones-creacionales/prototype/README.md)
     - [Abstract Factory](/desing-patterns/patrones-creacionales/abstract-factory/README.md)
-    - Factory Method
+    - [Factory Method](/desing-patterns/patrones-creacionales/factory-method/README.md)
 - Patrones Estructurales
     - Adapter
     - Decorator
