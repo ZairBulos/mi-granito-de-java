@@ -5,7 +5,7 @@
     - [Singleton](/desing-patterns/patrones-creacionales/singleton/README.md) 
     - [Builder](/desing-patterns/patrones-creacionales/builder/README.md)
     - [Prototype](/desing-patterns/patrones-creacionales/prototype/README.md)
-    - Abstract Factory
+    - [Abstract Factory](/desing-patterns/patrones-creacionales/abstract-factory/README.md)
     - Factory Method
 - Patrones Estructurales
     - Adapter
